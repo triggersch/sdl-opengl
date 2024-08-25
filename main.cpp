@@ -1,4 +1,3 @@
-#define SDL_MAIN_HANDLED
 #include "SceneOpenGL.h"
 
 int main(int argc, char **argv)
